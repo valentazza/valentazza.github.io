@@ -1,5 +1,5 @@
 # Site settings
-title: “somoya“
+title: SOMOYA
 description: WORDS ARE, OF COURSE, THE MOST POWERFUL DRUG USED BY MANKIND.
 
 # Files
@@ -71,9 +71,9 @@ kramdown:
      - with_toc_data
      - highlight
      - footnotes
-    input:          GFM
+    input: GFM
 sass:
-    style:          :compressed
+    style: :compressed
 paginate: 5
 paginate_path: "/writing/page:num/"
 permalink: "/writing/:title/"
