@@ -3,7 +3,7 @@ title: “somoya“
 description: WORDS ARE, OF COURSE, THE MOST POWERFUL DRUG USED BY MANKIND.
 
 # Files
-baseurl:
+baseurl: ""
 pagesdir: pages
 assets:
   libs: assets/libs
@@ -24,7 +24,7 @@ wpm: 200
 
 # Owner/author information
 owner:
-  name:   somoya
+  name: somoya
   avatar: avatar.jpg
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description: MUSICIAN
